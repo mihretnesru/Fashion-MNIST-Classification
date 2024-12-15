@@ -44,7 +44,7 @@ GridSearchCV with 3-fold cross-validation was used for tuning.
 - **Test Accuracy**: 90.86%
 - **Test Loss**: 0.2506
 - **Training Efficiency**:
-  - Single VM: 3.5 hours
+  - Two VMs: 3.5 hours
   - Distributed over 4 VMs: 2.2 hours
 
 ---
